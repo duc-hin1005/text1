@@ -1,0 +1,10 @@
+/project-folder
+│
+├── index.html
+├── styles.css
+├── script.js
+├── images/
+│   ├── heart.png
+│   ├── flowers.jpg
+│   ├── bee1.png
+│   ├── bee2.png
